@@ -1,6 +1,6 @@
 # Reporte – Algoritmia y Optimización
  
-**Alumno:** Cecilia Ximena Gonzalez Chavez **Video (≤ 8 min):** ENLACE
+**Alumno:** Cecilia Ximena Gonzalez Chavez  **Matricula:** 2069031  **Video (≤ 8 min):** ENLACE
 
 Todo se reproduce con `pip install -r requirements.txt && python run_all.py`. Las figuras quedan en `results/`.
 
