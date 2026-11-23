@@ -1,6 +1,6 @@
 # Reporte – Algoritmia y Optimización
  
-**Alumno:** _[tu nombre]_  **Repositorio:** _[URL pública de GitHub/GitLab]_  **Video (≤ 8 min):** _[enlace]_
+**Alumno:** Cecilia Ximena Gonzalez Chavez **Video (≤ 8 min):** ENLACE
 
 Todo se reproduce con `pip install -r requirements.txt && python run_all.py`. Las figuras quedan en `results/`.
 
