@@ -6,7 +6,7 @@ Todo se reproduce con `pip install -r requirements.txt && python run_all.py`. La
 
 ---
 
-## Ejercicio 1 – Aceleración paralela (`estimate_pi`)
+## Ejercicio 1 – Aceleración paralela (`estimate_pi`) 
 
 Monte Carlo con 400 M de puntos repartidos en 1, 2, 4 y 8 procesos (`multiprocessing.Pool`), mediana de 3 corridas. Figura: `results/ex1_speedup.png`.
 
